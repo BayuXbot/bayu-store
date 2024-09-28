@@ -67,8 +67,8 @@ section {
 
 /* Home Section */
 section#home {
-    background: linear-gradient(135deg, #FF6F61, #6B5B95);
-    background-size: 300% 300%;
+    background: linear-gradient(120deg, #FF6F61, #6B5B95);
+    background-size: 500% 500%;
     animation: gradientAnimation 5s ease infinite;
     color: white;
     height: 200px;
